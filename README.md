@@ -48,7 +48,7 @@ src/
 
 ### ✅ Unit Tests
 
-- Write unit tests for every service, utility, or core business logic added.
+- Write unit tests for every service, controller, utility, or core business logic added.
 - All test classes must:
   - Use `@SpringBootTest` or `@WebMvcTest` (as needed)
   - Be placed under `/src/test/java`
