@@ -155,8 +155,8 @@ git cherry-pick <commit-hash>
 
 ## 👥 Maintainers
 
-- **Engineering Lead**: [Olusegun Adeoye]
-- **Backend Lead**: [Oluwole Sumonu]
-- **Backend Sub Lead**: [Joseph Abetang]
-- **Team Lead**: [Oluwaseun Odeyemi]
-- **Contributors**: Loan Engineering Team [Aminu Kabunu, Uchechukwu Obiakor]
+- **Engineering Lead**: `Olusegun Adeoye`
+- **Backend Lead**: `Oluwole Sumonu`
+- **Backend Sub Lead**: `Joseph Abetang`
+- **Team Lead**: `Oluwaseun Odeyemi`
+- **Contributors**: Loan Engineering Team `Aminu Kabunu, Uchechukwu Obiakor`
